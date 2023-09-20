@@ -13,7 +13,7 @@ const EmptySlot = (props) => {
 
     return (
         <div>
-            <img style={{'width': '30vw'}} src={MoleHill} />
+            <img style={{'width': '30vw'}} src={MoleHill} alt="imf of molehill" />
         </div>
     )
 }
